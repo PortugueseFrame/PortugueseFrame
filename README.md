@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @PortugueseFrame
 - 👀 I’m interested in F1, Coding, Music and Reading
 - 🌱 I’m currently learning C, Python
 - 📫 How to reach me 
