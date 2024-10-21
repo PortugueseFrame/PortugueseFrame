@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 
   - Discord: portugueseframe
-- Currently an Intern at: https://mindshaker.com/
 
 <!---
 PortugueseFrame/PortugueseFrame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
