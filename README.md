@@ -1,5 +1,5 @@
 - 👀 I’m interested in F1, Coding, Music and Reading
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me 
   - Discord: portugueseframe
 
